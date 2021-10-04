@@ -1,0 +1,30 @@
+Explicaciones para niños de 12 años de edad
+
+Variables: 
+
+    -   Una variable es un espacio de memoria en donde podemos guardar cualquier tipo de dato o información que necesitaremos más adelante para poder hacer funcionar nuestro programa. 
+        Podemos llegar a pensar en una variable como si fuese una caja y dentro de ella almacenamos un dato. Esa caja, se identifica con un nombre (por ej, "cajaVar") y más adelante, para poder usar el dato que esa caja tiene adentro, debemos utilizar el nombre "cajaVar", llamando a la variable.
+
+Strings:
+
+    - Lo que conocemos como string, es simplemente uno de los varios tipos de datos que puede contener nuestra variable. Este tipo de dato, es de texto y únicamente de texto. Puede ser una palabra, o muchas, y deber estar encerrado entre comillas simples o dobles. 
+    Por ejemplo: 
+        var miString = 'palabra'
+        var miString2 = "palabra2"
+
+Funciones: 
+
+    - Las funciones son fundamentales en cualquier lenguaje de programación y son las que le dan una lógica a nuestro programa. Entiendase como la declaracion de los pasos que uno puede llegar a realizar con distintos ingredientes para hacer una torta.
+    Toda funcion puede recibir argumentos (en el caso ejemplificado, los ingredientes) y debe siempre retornar un valor al finalizar(la torta).
+
+Declaraciones IF:
+
+    - La estructura IF (SI, en español) es utilizada para tomar decisiones en función de una condición. Es decir, si una condición determinada se cumple, se realiza una acción. Y si esa condición determinada, NO se cumple, se realiza otra acción distinta, omitiendo el resto.
+    En el ejemplo que veniamos trabajando, sería algo como lo siguiente: "Si ya terminaste de preparar la torta, abri el horno y dejala 30 minutos dentro para luego sacarla y dejarla reposar. Sino, terminala de preparar para luego poder hornearla."
+
+Valores booleanos:
+
+    - ¿Verdadero o falso? 
+    Los valos booleanos son dos: true o false (verdadero o falso). Provienen de la lógica de Boole.
+    
+
