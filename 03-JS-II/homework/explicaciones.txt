@@ -1,0 +1,16 @@
+Explicaciones
+
+    Bucle for:
+        - El ciclo for evalua una condicion y se ejecuta siempre que de verdadero esa evaluacion. Una vez que de falso, ya no se sigue ejecutando. Para ello, se debe crear una variable, una condicion de la variable, incrementamos la variable, y luego entre llaves una accion a realizar luego de cada iteración. Tener en cuenta que siempre se ejecuta al menos una vez, sin evaluar la condicion.
+
+
+    Operador && (AND):
+        - Este tipo de operador evalúa ambas expresiones y devuelve verdadero (true) si ambas expresiones son verdaderas. En cualquier otro caso, devuelve falso (false).
+
+
+    Operador || (OR):
+        - El operador OR (||) evalúa ambas expresiones y devuelve verdadero (true) en caso de que una sola de las dos expresiones sea verdadera, o ambas lo sean (aunque si al evaluar la primera, es verdadera, la segunda ya no se evalúa). En caso de que ambas sean falsas (false), devuelve falso (false).
+
+
+    Operador ! (NOT):
+        - El operador NOT (!) analiza las expresiones y devuelve el valor booleano opuesto. En caso de dar false, devuelve true. Y en caso de dar true, devuelve false.

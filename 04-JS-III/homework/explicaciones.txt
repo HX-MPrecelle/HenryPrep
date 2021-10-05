@@ -1,0 +1,5 @@
+Explicaciones
+
+    Array:
+        - Una matriz o arreglo, puede darse a conocer como un contenedor de varios tipos de datos dentro de una misma cajita. Es decir, hagamos de cuenta que tenemos varios juguetes: pelotas, autitos, muñecas. Estos juguetes podemos guardarlos dentro de la misma caja (Array) sin importar de que tipo sean y luego podemos acceder a ellos por sus índices.
+        Tener en cuenta que el primer elemento de un array, SIEMPRE está bajo el índice 0. Por lo tanto, la longitud de un array (array.length) será SIEMPRE un numero menos que la cantidad de elementos.
