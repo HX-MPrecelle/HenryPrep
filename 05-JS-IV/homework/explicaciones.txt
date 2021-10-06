@@ -1,0 +1,21 @@
+Explicaciones:
+
+    Objetos:
+        - Son similares a las matrices, pero se declaran entre llaves ({}) y no tienen índices, sino que tienen pares claves-valor y para acceder a los valores, simplemente se escribe el nombreDeObjeto.clave
+
+    Propiedades:
+        - Las propiedades en los objetos están definidas por pares clave-valor. Cada propiedad, cuando se termina de escribir su valor, se le asigna una COMA (,) para poder escribir la propiedad siguiente.
+
+    Métodos:
+        - En los objetos, se pueden crear métodos dentro de sus propiedades. Para hacerlo, debe crearse una propiedad que contenga una función y para llamarlos, simplemente se llaman con nombreDeObjeto.método()
+
+    Bucle for..in:
+        - El bucle for ... in loop es parecido al bucle for que utilizamos para las matrices, pero tiene una pequeña diferencia ya que no opera con índices en los objetos, sino que va iterando sobre todas las claves del objeto. Para ejecutarlo, se debe eguir esta sintaxis: "for(let a in nombreObjeto){console.log(claves)}" 
+    
+    Notación de puntos vs notación de corchetes:
+        - Se puede llamar a las claves tanto como con un punto seguido del nombre del objeto, como dentro de los corchetes seguido del nombre del objeto tal y como se llamaba en las matrices a los indices.
+
+        nombreObjeto.clave  
+        nombreObjeto['clave']
+        nombreObjeto.metodo
+
