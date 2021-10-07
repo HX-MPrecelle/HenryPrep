@@ -1,0 +1,8 @@
+Explicaciones:
+
+    prototype:
+        -   Propiedad que tienen las clases que les permite crear un metodo una sola vez y dar acceso a cada objeto de esa clase a esos métodos. Es una buena forma de ahorrar memoria.
+        Los metodos de prototype tendrán acceso a la palabra clave "this" y apuntarán al objeto que esté llamándolo.
+
+    Constructores (de clase):
+        - El método constructor se utiliza para crear e inicializar un objeto creado con una clase.
