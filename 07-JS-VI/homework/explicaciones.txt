@@ -1,0 +1,5 @@
+Explicaciones:
+
+    Funciones Callback:
+        - JS tiene la capacidad de llamar a funciones dentro de otra como un argumento. Esto es lo que denominamos Funciones Callbacks.
+        Se pueden llamar en cualquier momento y pasar argumentos dentro de la función.
